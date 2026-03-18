@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pgvector
+langchain
+langgraph
+python-dotenv
+faker
+alembic
+faker
+langchain_aws
+boto3
+uvicorn
